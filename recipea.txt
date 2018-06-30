@@ -6,3 +6,5 @@ chicken fry
 bean
 pizza
 final
+
+final copy
