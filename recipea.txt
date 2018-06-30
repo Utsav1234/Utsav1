@@ -3,3 +3,6 @@ Welcome to my kitchen
 pasta 
 samosa
 chicken fry
+bean
+pizza
+final
